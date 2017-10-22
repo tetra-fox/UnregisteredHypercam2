@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnregisteredHypercam2", "UnregisteredHypercam2\UnregisteredHypercam2.csproj", "{3A09DC90-FC48-4426-9842-77F6F9348DB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnregisteredHypercam2", "UnregisteredHypercam2\UnregisteredHypercam2.csproj", "{778C3471-5FCB-4B7D-A556-E3385B8854A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A09DC90-FC48-4426-9842-77F6F9348DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A09DC90-FC48-4426-9842-77F6F9348DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A09DC90-FC48-4426-9842-77F6F9348DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A09DC90-FC48-4426-9842-77F6F9348DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778C3471-5FCB-4B7D-A556-E3385B8854A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778C3471-5FCB-4B7D-A556-E3385B8854A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778C3471-5FCB-4B7D-A556-E3385B8854A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778C3471-5FCB-4B7D-A556-E3385B8854A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0217B4E8-35C4-4A3C-B025-E6B7D13825F2}
+		SolutionGuid = {C1EBD6F9-BC6E-479E-B8BB-A70091F9C9D8}
 	EndGlobalSection
 EndGlobal
